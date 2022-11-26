@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustmentBaseVersion</key>
+	<integer>0</integer>
+	<key>adjustmentData</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwRVSRudWxs0g0ODxBXTlMu
+	dGltZVYkY2xhc3MjQcQ5g8jD1vmAAtISExQVWiRjbGFzc25hbWVYJGNsYXNzZXNWTlNE
+	YXRlohQWWE5TT2JqZWN0CBEaJCkyN0lMUVNXXWJqcXp8gYyVnJ8AAAAAAAABAQAAAAAA
+	AAAXAAAAAAAAAAAAAAAAAAAAqA==
+	</data>
+	<key>adjustmentEditorBundleID</key>
+	<string>com.toyopagroup.picaboo</string>
+	<key>adjustmentFormatIdentifier</key>
+	<string>com.snapchat.preview-no-continuity</string>
+	<key>adjustmentFormatVersion</key>
+	<string>1.0</string>
+	<key>adjustmentTimestamp</key>
+	<date>2022-07-04T11:33:37Z</date>
+</dict>
+</plist>
